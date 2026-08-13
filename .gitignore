@@ -5,19 +5,7 @@
 !.paicli/PAI.md
 PAI.local.md
 
-# Python 构建和缓存
-__pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.venv/
-venv/
-build/
-dist/
-*.egg-info/
-
-# 旧构建产物（不应重新生成）
+# 编译输出
 target/
 *.class
 

@@ -1,6 +1,4 @@
-# CLAUDE.md（Legacy）
-
-> 当前项目已经迁移为纯 Python。以下内容仅是旧 Java 版本历史记录；现行规则以根目录 `AGENTS.md` 为准。
+# CLAUDE.md
 
 兼容保留文件。
 

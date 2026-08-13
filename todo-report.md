@@ -1,6 +1,4 @@
-# TODO/FIXME 报告（Legacy Java 版本）
-
-> 此文件仅保留历史。当前 Python 路线以 `ROADMAP.md` 为准。
+# TODO/FIXME 报告
 
 ## 扫描结果概述
 
